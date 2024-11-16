@@ -1,0 +1,2715 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="&gt;&gt;groupBox24.Name" xml:space="preserve">
+    <value>groupBox24</value>
+  </data>
+  <data name="&gt;&gt;groupBox24.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox24.Parent" xml:space="preserve">
+    <value>tabPage19</value>
+  </data>
+  <data name="&gt;&gt;groupBox24.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;groupBox23.Name" xml:space="preserve">
+    <value>groupBox23</value>
+  </data>
+  <data name="&gt;&gt;groupBox23.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox23.Parent" xml:space="preserve">
+    <value>tabPage19</value>
+  </data>
+  <data name="&gt;&gt;groupBox23.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;groupBox22.Name" xml:space="preserve">
+    <value>groupBox22</value>
+  </data>
+  <data name="&gt;&gt;groupBox22.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox22.Parent" xml:space="preserve">
+    <value>tabPage19</value>
+  </data>
+  <data name="&gt;&gt;groupBox22.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="tabPage19.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 39</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="tabPage19.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tabPage19.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1119, 715</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="tabPage19.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="tabPage19.Text" xml:space="preserve">
+    <value>Manange Account</value>
+  </data>
+  <data name="&gt;&gt;tabPage19.Name" xml:space="preserve">
+    <value>tabPage19</value>
+  </data>
+  <data name="&gt;&gt;tabPage19.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPage19.Parent" xml:space="preserve">
+    <value>tabControl3</value>
+  </data>
+  <data name="&gt;&gt;tabPage19.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;dataGridView3.Name" xml:space="preserve">
+    <value>dataGridView3</value>
+  </data>
+  <data name="&gt;&gt;dataGridView3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridView3.Parent" xml:space="preserve">
+    <value>tabPage20</value>
+  </data>
+  <data name="&gt;&gt;dataGridView3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;groupBox25.Name" xml:space="preserve">
+    <value>groupBox25</value>
+  </data>
+  <data name="&gt;&gt;groupBox25.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox25.Parent" xml:space="preserve">
+    <value>tabPage20</value>
+  </data>
+  <data name="&gt;&gt;groupBox25.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="tabPage20.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 39</value>
+  </data>
+  <data name="tabPage20.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tabPage20.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1119, 715</value>
+  </data>
+  <data name="tabPage20.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="tabPage20.Text" xml:space="preserve">
+    <value>Inventory Request</value>
+  </data>
+  <data name="&gt;&gt;tabPage20.Name" xml:space="preserve">
+    <value>tabPage20</value>
+  </data>
+  <data name="&gt;&gt;tabPage20.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPage20.Parent" xml:space="preserve">
+    <value>tabControl3</value>
+  </data>
+  <data name="&gt;&gt;tabPage20.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;dataGridView6.Name" xml:space="preserve">
+    <value>dataGridView6</value>
+  </data>
+  <data name="&gt;&gt;dataGridView6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridView6.Parent" xml:space="preserve">
+    <value>tabPage21</value>
+  </data>
+  <data name="&gt;&gt;dataGridView6.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;SearchAppointmentButton.Name" xml:space="preserve">
+    <value>SearchAppointmentButton</value>
+  </data>
+  <data name="&gt;&gt;SearchAppointmentButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;SearchAppointmentButton.Parent" xml:space="preserve">
+    <value>tabPage21</value>
+  </data>
+  <data name="&gt;&gt;SearchAppointmentButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;GenreateBillButton.Name" xml:space="preserve">
+    <value>GenreateBillButton</value>
+  </data>
+  <data name="&gt;&gt;GenreateBillButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;GenreateBillButton.Parent" xml:space="preserve">
+    <value>tabPage21</value>
+  </data>
+  <data name="&gt;&gt;GenreateBillButton.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;groupBox26.Name" xml:space="preserve">
+    <value>groupBox26</value>
+  </data>
+  <data name="&gt;&gt;groupBox26.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox26.Parent" xml:space="preserve">
+    <value>tabPage21</value>
+  </data>
+  <data name="&gt;&gt;groupBox26.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="tabPage21.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 39</value>
+  </data>
+  <data name="tabPage21.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tabPage21.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1119, 715</value>
+  </data>
+  <data name="tabPage21.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="tabPage21.Text" xml:space="preserve">
+    <value>Appointment</value>
+  </data>
+  <data name="&gt;&gt;tabPage21.Name" xml:space="preserve">
+    <value>tabPage21</value>
+  </data>
+  <data name="&gt;&gt;tabPage21.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPage21.Parent" xml:space="preserve">
+    <value>tabControl3</value>
+  </data>
+  <data name="&gt;&gt;tabPage21.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;dataGridView7.Name" xml:space="preserve">
+    <value>dataGridView7</value>
+  </data>
+  <data name="&gt;&gt;dataGridView7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridView7.Parent" xml:space="preserve">
+    <value>tabPage22</value>
+  </data>
+  <data name="&gt;&gt;dataGridView7.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;SearchPaymentButton.Name" xml:space="preserve">
+    <value>SearchPaymentButton</value>
+  </data>
+  <data name="&gt;&gt;SearchPaymentButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;SearchPaymentButton.Parent" xml:space="preserve">
+    <value>tabPage22</value>
+  </data>
+  <data name="&gt;&gt;SearchPaymentButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;groupBox27.Name" xml:space="preserve">
+    <value>groupBox27</value>
+  </data>
+  <data name="&gt;&gt;groupBox27.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox27.Parent" xml:space="preserve">
+    <value>tabPage22</value>
+  </data>
+  <data name="&gt;&gt;groupBox27.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="tabPage22.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 39</value>
+  </data>
+  <data name="tabPage22.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tabPage22.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1119, 715</value>
+  </data>
+  <data name="tabPage22.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="tabPage22.Text" xml:space="preserve">
+    <value>Payment</value>
+  </data>
+  <data name="&gt;&gt;tabPage22.Name" xml:space="preserve">
+    <value>tabPage22</value>
+  </data>
+  <data name="&gt;&gt;tabPage22.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPage22.Parent" xml:space="preserve">
+    <value>tabControl3</value>
+  </data>
+  <data name="&gt;&gt;tabPage22.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="LogoutButton1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="LogoutButton1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>802, 386</value>
+  </data>
+  <data name="LogoutButton1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>184, 43</value>
+  </data>
+  <data name="LogoutButton1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="LogoutButton1.Text" xml:space="preserve">
+    <value>Logout</value>
+  </data>
+  <data name="&gt;&gt;LogoutButton1.Name" xml:space="preserve">
+    <value>LogoutButton1</value>
+  </data>
+  <data name="&gt;&gt;LogoutButton1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;LogoutButton1.Parent" xml:space="preserve">
+    <value>tabPage23</value>
+  </data>
+  <data name="&gt;&gt;LogoutButton1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;recepIDTxtBox.Name" xml:space="preserve">
+    <value>recepIDTxtBox</value>
+  </data>
+  <data name="&gt;&gt;recepIDTxtBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;recepIDTxtBox.Parent" xml:space="preserve">
+    <value>groupBox28</value>
+  </data>
+  <data name="&gt;&gt;recepIDTxtBox.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;RecepIDLb.Name" xml:space="preserve">
+    <value>RecepIDLb</value>
+  </data>
+  <data name="&gt;&gt;RecepIDLb.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;RecepIDLb.Parent" xml:space="preserve">
+    <value>groupBox28</value>
+  </data>
+  <data name="&gt;&gt;RecepIDLb.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;UpdateButton2.Name" xml:space="preserve">
+    <value>UpdateButton2</value>
+  </data>
+  <data name="&gt;&gt;UpdateButton2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;UpdateButton2.Parent" xml:space="preserve">
+    <value>groupBox28</value>
+  </data>
+  <data name="&gt;&gt;UpdateButton2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;PasswordTxtBox1.Name" xml:space="preserve">
+    <value>PasswordTxtBox1</value>
+  </data>
+  <data name="&gt;&gt;PasswordTxtBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;PasswordTxtBox1.Parent" xml:space="preserve">
+    <value>groupBox28</value>
+  </data>
+  <data name="&gt;&gt;PasswordTxtBox1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;EmailTxtButton.Name" xml:space="preserve">
+    <value>EmailTxtButton</value>
+  </data>
+  <data name="&gt;&gt;EmailTxtButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;EmailTxtButton.Parent" xml:space="preserve">
+    <value>groupBox28</value>
+  </data>
+  <data name="&gt;&gt;EmailTxtButton.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;RecepNameTxtBox2.Name" xml:space="preserve">
+    <value>RecepNameTxtBox2</value>
+  </data>
+  <data name="&gt;&gt;RecepNameTxtBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;RecepNameTxtBox2.Parent" xml:space="preserve">
+    <value>groupBox28</value>
+  </data>
+  <data name="&gt;&gt;RecepNameTxtBox2.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;PasswordLbl1.Name" xml:space="preserve">
+    <value>PasswordLbl1</value>
+  </data>
+  <data name="&gt;&gt;PasswordLbl1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;PasswordLbl1.Parent" xml:space="preserve">
+    <value>groupBox28</value>
+  </data>
+  <data name="&gt;&gt;PasswordLbl1.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;EmailLbl.Name" xml:space="preserve">
+    <value>EmailLbl</value>
+  </data>
+  <data name="&gt;&gt;EmailLbl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;EmailLbl.Parent" xml:space="preserve">
+    <value>groupBox28</value>
+  </data>
+  <data name="&gt;&gt;EmailLbl.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;RecepNameLbl.Name" xml:space="preserve">
+    <value>RecepNameLbl</value>
+  </data>
+  <data name="&gt;&gt;RecepNameLbl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;RecepNameLbl.Parent" xml:space="preserve">
+    <value>groupBox28</value>
+  </data>
+  <data name="&gt;&gt;RecepNameLbl.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="groupBox28.Location" type="System.Drawing.Point, System.Drawing">
+    <value>59, 49</value>
+  </data>
+  <data name="groupBox28.Size" type="System.Drawing.Size, System.Drawing">
+    <value>530, 438</value>
+  </data>
+  <data name="groupBox28.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="groupBox28.Text" xml:space="preserve">
+    <value>Update profile</value>
+  </data>
+  <data name="&gt;&gt;groupBox28.Name" xml:space="preserve">
+    <value>groupBox28</value>
+  </data>
+  <data name="&gt;&gt;groupBox28.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox28.Parent" xml:space="preserve">
+    <value>tabPage23</value>
+  </data>
+  <data name="&gt;&gt;groupBox28.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="tabPage23.Location" type="System.Drawing.Point, System.Drawing">
+    <value>8, 39</value>
+  </data>
+  <data name="tabPage23.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="tabPage23.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1119, 715</value>
+  </data>
+  <data name="tabPage23.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="tabPage23.Text" xml:space="preserve">
+    <value>HomePage</value>
+  </data>
+  <data name="&gt;&gt;tabPage23.Name" xml:space="preserve">
+    <value>tabPage23</value>
+  </data>
+  <data name="&gt;&gt;tabPage23.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPage23.Parent" xml:space="preserve">
+    <value>tabControl3</value>
+  </data>
+  <data name="&gt;&gt;tabPage23.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="tabControl3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 0</value>
+  </data>
+  <data name="tabControl3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1135, 762</value>
+  </data>
+  <data name="tabControl3.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;tabControl3.Name" xml:space="preserve">
+    <value>tabControl3</value>
+  </data>
+  <data name="&gt;&gt;tabControl3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabControl3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tabControl3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;CusEmailLbl.Name" xml:space="preserve">
+    <value>CusEmailLbl</value>
+  </data>
+  <data name="&gt;&gt;CusEmailLbl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CusEmailLbl.Parent" xml:space="preserve">
+    <value>groupBox24</value>
+  </data>
+  <data name="&gt;&gt;CusEmailLbl.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;AddAccButton1.Name" xml:space="preserve">
+    <value>AddAccButton1</value>
+  </data>
+  <data name="&gt;&gt;AddAccButton1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;AddAccButton1.Parent" xml:space="preserve">
+    <value>groupBox24</value>
+  </data>
+  <data name="&gt;&gt;AddAccButton1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;CusNameLbl2.Name" xml:space="preserve">
+    <value>CusNameLbl2</value>
+  </data>
+  <data name="&gt;&gt;CusNameLbl2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CusNameLbl2.Parent" xml:space="preserve">
+    <value>groupBox24</value>
+  </data>
+  <data name="&gt;&gt;CusNameLbl2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;CusEmailTxtBox.Name" xml:space="preserve">
+    <value>CusEmailTxtBox</value>
+  </data>
+  <data name="&gt;&gt;CusEmailTxtBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CusEmailTxtBox.Parent" xml:space="preserve">
+    <value>groupBox24</value>
+  </data>
+  <data name="&gt;&gt;CusEmailTxtBox.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;PasswordLbl2.Name" xml:space="preserve">
+    <value>PasswordLbl2</value>
+  </data>
+  <data name="&gt;&gt;PasswordLbl2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;PasswordLbl2.Parent" xml:space="preserve">
+    <value>groupBox24</value>
+  </data>
+  <data name="&gt;&gt;PasswordLbl2.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;CusNameTxtBox4.Name" xml:space="preserve">
+    <value>CusNameTxtBox4</value>
+  </data>
+  <data name="&gt;&gt;CusNameTxtBox4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CusNameTxtBox4.Parent" xml:space="preserve">
+    <value>groupBox24</value>
+  </data>
+  <data name="&gt;&gt;CusNameTxtBox4.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;PasswordTxtBox2.Name" xml:space="preserve">
+    <value>PasswordTxtBox2</value>
+  </data>
+  <data name="&gt;&gt;PasswordTxtBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;PasswordTxtBox2.Parent" xml:space="preserve">
+    <value>groupBox24</value>
+  </data>
+  <data name="&gt;&gt;PasswordTxtBox2.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="groupBox24.Location" type="System.Drawing.Point, System.Drawing">
+    <value>547, 23</value>
+  </data>
+  <data name="groupBox24.Size" type="System.Drawing.Size, System.Drawing">
+    <value>540, 656</value>
+  </data>
+  <data name="groupBox24.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="groupBox24.Text" xml:space="preserve">
+    <value>Add Account</value>
+  </data>
+  <data name="&gt;&gt;groupBox24.Name" xml:space="preserve">
+    <value>groupBox24</value>
+  </data>
+  <data name="&gt;&gt;groupBox24.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox24.Parent" xml:space="preserve">
+    <value>tabPage19</value>
+  </data>
+  <data name="&gt;&gt;groupBox24.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="CusEmailLbl.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="CusEmailLbl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="CusEmailLbl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>53, 171</value>
+  </data>
+  <data name="CusEmailLbl.Size" type="System.Drawing.Size, System.Drawing">
+    <value>202, 24</value>
+  </data>
+  <data name="CusEmailLbl.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="CusEmailLbl.Text" xml:space="preserve">
+    <value>Customer Email :</value>
+  </data>
+  <data name="&gt;&gt;CusEmailLbl.Name" xml:space="preserve">
+    <value>CusEmailLbl</value>
+  </data>
+  <data name="&gt;&gt;CusEmailLbl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CusEmailLbl.Parent" xml:space="preserve">
+    <value>groupBox24</value>
+  </data>
+  <data name="&gt;&gt;CusEmailLbl.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="AddAccButton1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="AddAccButton1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>187, 459</value>
+  </data>
+  <data name="AddAccButton1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>191, 46</value>
+  </data>
+  <data name="AddAccButton1.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="AddAccButton1.Text" xml:space="preserve">
+    <value>Add Account</value>
+  </data>
+  <data name="&gt;&gt;AddAccButton1.Name" xml:space="preserve">
+    <value>AddAccButton1</value>
+  </data>
+  <data name="&gt;&gt;AddAccButton1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;AddAccButton1.Parent" xml:space="preserve">
+    <value>groupBox24</value>
+  </data>
+  <data name="&gt;&gt;AddAccButton1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="CusNameLbl2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="CusNameLbl2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="CusNameLbl2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>53, 100</value>
+  </data>
+  <data name="CusNameLbl2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>190, 24</value>
+  </data>
+  <data name="CusNameLbl2.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="CusNameLbl2.Text" xml:space="preserve">
+    <value>Customer Name :</value>
+  </data>
+  <data name="&gt;&gt;CusNameLbl2.Name" xml:space="preserve">
+    <value>CusNameLbl2</value>
+  </data>
+  <data name="&gt;&gt;CusNameLbl2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CusNameLbl2.Parent" xml:space="preserve">
+    <value>groupBox24</value>
+  </data>
+  <data name="&gt;&gt;CusNameLbl2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="CusEmailTxtBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>273, 168</value>
+  </data>
+  <data name="CusEmailTxtBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 35</value>
+  </data>
+  <data name="CusEmailTxtBox.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;CusEmailTxtBox.Name" xml:space="preserve">
+    <value>CusEmailTxtBox</value>
+  </data>
+  <data name="&gt;&gt;CusEmailTxtBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CusEmailTxtBox.Parent" xml:space="preserve">
+    <value>groupBox24</value>
+  </data>
+  <data name="&gt;&gt;CusEmailTxtBox.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="PasswordLbl2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="PasswordLbl2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="PasswordLbl2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>53, 253</value>
+  </data>
+  <data name="PasswordLbl2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>142, 24</value>
+  </data>
+  <data name="PasswordLbl2.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="PasswordLbl2.Text" xml:space="preserve">
+    <value>Password : </value>
+  </data>
+  <data name="&gt;&gt;PasswordLbl2.Name" xml:space="preserve">
+    <value>PasswordLbl2</value>
+  </data>
+  <data name="&gt;&gt;PasswordLbl2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;PasswordLbl2.Parent" xml:space="preserve">
+    <value>groupBox24</value>
+  </data>
+  <data name="&gt;&gt;PasswordLbl2.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="CusNameTxtBox4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>273, 89</value>
+  </data>
+  <data name="CusNameTxtBox4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 35</value>
+  </data>
+  <data name="CusNameTxtBox4.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;CusNameTxtBox4.Name" xml:space="preserve">
+    <value>CusNameTxtBox4</value>
+  </data>
+  <data name="&gt;&gt;CusNameTxtBox4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CusNameTxtBox4.Parent" xml:space="preserve">
+    <value>groupBox24</value>
+  </data>
+  <data name="&gt;&gt;CusNameTxtBox4.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="PasswordTxtBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>273, 250</value>
+  </data>
+  <data name="PasswordTxtBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 35</value>
+  </data>
+  <data name="PasswordTxtBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;PasswordTxtBox2.Name" xml:space="preserve">
+    <value>PasswordTxtBox2</value>
+  </data>
+  <data name="&gt;&gt;PasswordTxtBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;PasswordTxtBox2.Parent" xml:space="preserve">
+    <value>groupBox24</value>
+  </data>
+  <data name="&gt;&gt;PasswordTxtBox2.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;button24.Name" xml:space="preserve">
+    <value>button24</value>
+  </data>
+  <data name="&gt;&gt;button24.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button24.Parent" xml:space="preserve">
+    <value>groupBox23</value>
+  </data>
+  <data name="&gt;&gt;button24.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;CusNameLbl1.Name" xml:space="preserve">
+    <value>CusNameLbl1</value>
+  </data>
+  <data name="&gt;&gt;CusNameLbl1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CusNameLbl1.Parent" xml:space="preserve">
+    <value>groupBox23</value>
+  </data>
+  <data name="&gt;&gt;CusNameLbl1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;CusIDLbl2.Name" xml:space="preserve">
+    <value>CusIDLbl2</value>
+  </data>
+  <data name="&gt;&gt;CusIDLbl2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CusIDLbl2.Parent" xml:space="preserve">
+    <value>groupBox23</value>
+  </data>
+  <data name="&gt;&gt;CusIDLbl2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;CusNameTxtBox2.Name" xml:space="preserve">
+    <value>CusNameTxtBox2</value>
+  </data>
+  <data name="&gt;&gt;CusNameTxtBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CusNameTxtBox2.Parent" xml:space="preserve">
+    <value>groupBox23</value>
+  </data>
+  <data name="&gt;&gt;CusNameTxtBox2.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;CusIDTxtBox3.Name" xml:space="preserve">
+    <value>CusIDTxtBox3</value>
+  </data>
+  <data name="&gt;&gt;CusIDTxtBox3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CusIDTxtBox3.Parent" xml:space="preserve">
+    <value>groupBox23</value>
+  </data>
+  <data name="&gt;&gt;CusIDTxtBox3.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="groupBox23.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 229</value>
+  </data>
+  <data name="groupBox23.Size" type="System.Drawing.Size, System.Drawing">
+    <value>444, 450</value>
+  </data>
+  <data name="groupBox23.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="groupBox23.Text" xml:space="preserve">
+    <value>Result</value>
+  </data>
+  <data name="&gt;&gt;groupBox23.Name" xml:space="preserve">
+    <value>groupBox23</value>
+  </data>
+  <data name="&gt;&gt;groupBox23.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox23.Parent" xml:space="preserve">
+    <value>tabPage19</value>
+  </data>
+  <data name="&gt;&gt;groupBox23.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="button24.Location" type="System.Drawing.Point, System.Drawing">
+    <value>207, 253</value>
+  </data>
+  <data name="button24.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 46</value>
+  </data>
+  <data name="button24.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="button24.Text" xml:space="preserve">
+    <value>DELETE</value>
+  </data>
+  <data name="&gt;&gt;button24.Name" xml:space="preserve">
+    <value>button24</value>
+  </data>
+  <data name="&gt;&gt;button24.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button24.Parent" xml:space="preserve">
+    <value>groupBox23</value>
+  </data>
+  <data name="&gt;&gt;button24.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="CusNameLbl1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="CusNameLbl1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>11, 141</value>
+  </data>
+  <data name="CusNameLbl1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>190, 24</value>
+  </data>
+  <data name="CusNameLbl1.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="CusNameLbl1.Text" xml:space="preserve">
+    <value>Customer Name :</value>
+  </data>
+  <data name="&gt;&gt;CusNameLbl1.Name" xml:space="preserve">
+    <value>CusNameLbl1</value>
+  </data>
+  <data name="&gt;&gt;CusNameLbl1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CusNameLbl1.Parent" xml:space="preserve">
+    <value>groupBox23</value>
+  </data>
+  <data name="&gt;&gt;CusNameLbl1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="CusIDLbl2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="CusIDLbl2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>11, 70</value>
+  </data>
+  <data name="CusIDLbl2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>166, 24</value>
+  </data>
+  <data name="CusIDLbl2.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="CusIDLbl2.Text" xml:space="preserve">
+    <value>Customer ID :</value>
+  </data>
+  <data name="&gt;&gt;CusIDLbl2.Name" xml:space="preserve">
+    <value>CusIDLbl2</value>
+  </data>
+  <data name="&gt;&gt;CusIDLbl2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CusIDLbl2.Parent" xml:space="preserve">
+    <value>groupBox23</value>
+  </data>
+  <data name="&gt;&gt;CusIDLbl2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="CusNameTxtBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>207, 138</value>
+  </data>
+  <data name="CusNameTxtBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 35</value>
+  </data>
+  <data name="CusNameTxtBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;CusNameTxtBox2.Name" xml:space="preserve">
+    <value>CusNameTxtBox2</value>
+  </data>
+  <data name="&gt;&gt;CusNameTxtBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CusNameTxtBox2.Parent" xml:space="preserve">
+    <value>groupBox23</value>
+  </data>
+  <data name="&gt;&gt;CusNameTxtBox2.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="CusIDTxtBox3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>207, 67</value>
+  </data>
+  <data name="CusIDTxtBox3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 35</value>
+  </data>
+  <data name="CusIDTxtBox3.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;CusIDTxtBox3.Name" xml:space="preserve">
+    <value>CusIDTxtBox3</value>
+  </data>
+  <data name="&gt;&gt;CusIDTxtBox3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CusIDTxtBox3.Parent" xml:space="preserve">
+    <value>groupBox23</value>
+  </data>
+  <data name="&gt;&gt;CusIDTxtBox3.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;SearchButton3.Name" xml:space="preserve">
+    <value>SearchButton3</value>
+  </data>
+  <data name="&gt;&gt;SearchButton3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;SearchButton3.Parent" xml:space="preserve">
+    <value>groupBox22</value>
+  </data>
+  <data name="&gt;&gt;SearchButton3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;CusIDLbl.Name" xml:space="preserve">
+    <value>CusIDLbl</value>
+  </data>
+  <data name="&gt;&gt;CusIDLbl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CusIDLbl.Parent" xml:space="preserve">
+    <value>groupBox22</value>
+  </data>
+  <data name="&gt;&gt;CusIDLbl.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;CusIDTxtBox1.Name" xml:space="preserve">
+    <value>CusIDTxtBox1</value>
+  </data>
+  <data name="&gt;&gt;CusIDTxtBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CusIDTxtBox1.Parent" xml:space="preserve">
+    <value>groupBox22</value>
+  </data>
+  <data name="&gt;&gt;CusIDTxtBox1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="groupBox22.Location" type="System.Drawing.Point, System.Drawing">
+    <value>18, 23</value>
+  </data>
+  <data name="groupBox22.Size" type="System.Drawing.Size, System.Drawing">
+    <value>444, 187</value>
+  </data>
+  <data name="groupBox22.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="groupBox22.Text" xml:space="preserve">
+    <value>Search </value>
+  </data>
+  <data name="&gt;&gt;groupBox22.Name" xml:space="preserve">
+    <value>groupBox22</value>
+  </data>
+  <data name="&gt;&gt;groupBox22.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox22.Parent" xml:space="preserve">
+    <value>tabPage19</value>
+  </data>
+  <data name="&gt;&gt;groupBox22.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="SearchButton3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="SearchButton3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>237, 127</value>
+  </data>
+  <data name="SearchButton3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>127, 37</value>
+  </data>
+  <data name="SearchButton3.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="SearchButton3.Text" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="&gt;&gt;SearchButton3.Name" xml:space="preserve">
+    <value>SearchButton3</value>
+  </data>
+  <data name="&gt;&gt;SearchButton3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;SearchButton3.Parent" xml:space="preserve">
+    <value>groupBox22</value>
+  </data>
+  <data name="&gt;&gt;SearchButton3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="CusIDLbl.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="CusIDLbl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 57</value>
+  </data>
+  <data name="CusIDLbl.Size" type="System.Drawing.Size, System.Drawing">
+    <value>166, 24</value>
+  </data>
+  <data name="CusIDLbl.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="CusIDLbl.Text" xml:space="preserve">
+    <value>Customer ID :</value>
+  </data>
+  <data name="&gt;&gt;CusIDLbl.Name" xml:space="preserve">
+    <value>CusIDLbl</value>
+  </data>
+  <data name="&gt;&gt;CusIDLbl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CusIDLbl.Parent" xml:space="preserve">
+    <value>groupBox22</value>
+  </data>
+  <data name="&gt;&gt;CusIDLbl.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="CusIDTxtBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>199, 54</value>
+  </data>
+  <data name="CusIDTxtBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>165, 35</value>
+  </data>
+  <data name="CusIDTxtBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;CusIDTxtBox1.Name" xml:space="preserve">
+    <value>CusIDTxtBox1</value>
+  </data>
+  <data name="&gt;&gt;CusIDTxtBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;CusIDTxtBox1.Parent" xml:space="preserve">
+    <value>groupBox22</value>
+  </data>
+  <data name="&gt;&gt;CusIDTxtBox1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <metadata name="bindingSource12.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>307, 17</value>
+  </metadata>
+  <data name="dataGridView3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 17</value>
+  </data>
+  <data name="dataGridView3.RowHeadersWidth" type="System.Int32, mscorlib">
+    <value>82</value>
+  </data>
+  <data name="dataGridView3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1081, 399</value>
+  </data>
+  <data name="dataGridView3.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;dataGridView3.Name" xml:space="preserve">
+    <value>dataGridView3</value>
+  </data>
+  <data name="&gt;&gt;dataGridView3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridView3.Parent" xml:space="preserve">
+    <value>tabPage20</value>
+  </data>
+  <data name="&gt;&gt;dataGridView3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn1.HeaderText" xml:space="preserve">
+    <value>requestID</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn1.MinimumWidth" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn1.Width" type="System.Int32, mscorlib">
+    <value>200</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn2.HeaderText" xml:space="preserve">
+    <value>requestStatus</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn2.MinimumWidth" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn2.Width" type="System.Int32, mscorlib">
+    <value>200</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn3.HeaderText" xml:space="preserve">
+    <value>mechanicID</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn3.MinimumWidth" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn3.Width" type="System.Int32, mscorlib">
+    <value>200</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn4.HeaderText" xml:space="preserve">
+    <value>requestDescription</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn4.MinimumWidth" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn4.Width" type="System.Int32, mscorlib">
+    <value>200</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn5.HeaderText" xml:space="preserve">
+    <value>reqTool</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn5.MinimumWidth" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn5.Width" type="System.Int32, mscorlib">
+    <value>200</value>
+  </data>
+  <metadata name="bindingSource12.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>307, 17</value>
+  </metadata>
+  <metadata name="inventoryDataSet1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="inventoryDataSet1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="&gt;&gt;RequestStatusComboBox.Name" xml:space="preserve">
+    <value>RequestStatusComboBox</value>
+  </data>
+  <data name="&gt;&gt;RequestStatusComboBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;RequestStatusComboBox.Parent" xml:space="preserve">
+    <value>groupBox25</value>
+  </data>
+  <data name="&gt;&gt;RequestStatusComboBox.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;RequestIDTxtBox1.Name" xml:space="preserve">
+    <value>RequestIDTxtBox1</value>
+  </data>
+  <data name="&gt;&gt;RequestIDTxtBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;RequestIDTxtBox1.Parent" xml:space="preserve">
+    <value>groupBox25</value>
+  </data>
+  <data name="&gt;&gt;RequestIDTxtBox1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;UpdateButton.Name" xml:space="preserve">
+    <value>UpdateButton</value>
+  </data>
+  <data name="&gt;&gt;UpdateButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;UpdateButton.Parent" xml:space="preserve">
+    <value>groupBox25</value>
+  </data>
+  <data name="&gt;&gt;UpdateButton.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;ReqyestStatusLbl.Name" xml:space="preserve">
+    <value>ReqyestStatusLbl</value>
+  </data>
+  <data name="&gt;&gt;ReqyestStatusLbl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ReqyestStatusLbl.Parent" xml:space="preserve">
+    <value>groupBox25</value>
+  </data>
+  <data name="&gt;&gt;ReqyestStatusLbl.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;RequestIDLbl.Name" xml:space="preserve">
+    <value>RequestIDLbl</value>
+  </data>
+  <data name="&gt;&gt;RequestIDLbl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;RequestIDLbl.Parent" xml:space="preserve">
+    <value>groupBox25</value>
+  </data>
+  <data name="&gt;&gt;RequestIDLbl.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="groupBox25.Location" type="System.Drawing.Point, System.Drawing">
+    <value>27, 440</value>
+  </data>
+  <data name="groupBox25.Size" type="System.Drawing.Size, System.Drawing">
+    <value>465, 239</value>
+  </data>
+  <data name="groupBox25.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="groupBox25.Text" xml:space="preserve">
+    <value>Update Information</value>
+  </data>
+  <data name="&gt;&gt;groupBox25.Name" xml:space="preserve">
+    <value>groupBox25</value>
+  </data>
+  <data name="&gt;&gt;groupBox25.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox25.Parent" xml:space="preserve">
+    <value>tabPage20</value>
+  </data>
+  <data name="&gt;&gt;groupBox25.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="RequestStatusComboBox.Items" xml:space="preserve">
+    <value>Approved</value>
+  </data>
+  <data name="RequestStatusComboBox.Items1" xml:space="preserve">
+    <value>Reject</value>
+  </data>
+  <data name="RequestStatusComboBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>260, 107</value>
+  </data>
+  <data name="RequestStatusComboBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>153, 32</value>
+  </data>
+  <data name="RequestStatusComboBox.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;RequestStatusComboBox.Name" xml:space="preserve">
+    <value>RequestStatusComboBox</value>
+  </data>
+  <data name="&gt;&gt;RequestStatusComboBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;RequestStatusComboBox.Parent" xml:space="preserve">
+    <value>groupBox25</value>
+  </data>
+  <data name="&gt;&gt;RequestStatusComboBox.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="RequestIDTxtBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>260, 41</value>
+  </data>
+  <data name="RequestIDTxtBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>153, 35</value>
+  </data>
+  <data name="RequestIDTxtBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;RequestIDTxtBox1.Name" xml:space="preserve">
+    <value>RequestIDTxtBox1</value>
+  </data>
+  <data name="&gt;&gt;RequestIDTxtBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;RequestIDTxtBox1.Parent" xml:space="preserve">
+    <value>groupBox25</value>
+  </data>
+  <data name="&gt;&gt;RequestIDTxtBox1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="UpdateButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>260, 170</value>
+  </data>
+  <data name="UpdateButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>153, 44</value>
+  </data>
+  <data name="UpdateButton.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="UpdateButton.Text" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="&gt;&gt;UpdateButton.Name" xml:space="preserve">
+    <value>UpdateButton</value>
+  </data>
+  <data name="&gt;&gt;UpdateButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;UpdateButton.Parent" xml:space="preserve">
+    <value>groupBox25</value>
+  </data>
+  <data name="&gt;&gt;UpdateButton.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="ReqyestStatusLbl.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="ReqyestStatusLbl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>30, 115</value>
+  </data>
+  <data name="ReqyestStatusLbl.Size" type="System.Drawing.Size, System.Drawing">
+    <value>202, 24</value>
+  </data>
+  <data name="ReqyestStatusLbl.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="ReqyestStatusLbl.Text" xml:space="preserve">
+    <value>Request Status :</value>
+  </data>
+  <data name="&gt;&gt;ReqyestStatusLbl.Name" xml:space="preserve">
+    <value>ReqyestStatusLbl</value>
+  </data>
+  <data name="&gt;&gt;ReqyestStatusLbl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ReqyestStatusLbl.Parent" xml:space="preserve">
+    <value>groupBox25</value>
+  </data>
+  <data name="&gt;&gt;ReqyestStatusLbl.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="RequestIDLbl.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="RequestIDLbl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>30, 52</value>
+  </data>
+  <data name="RequestIDLbl.Size" type="System.Drawing.Size, System.Drawing">
+    <value>154, 24</value>
+  </data>
+  <data name="RequestIDLbl.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="RequestIDLbl.Text" xml:space="preserve">
+    <value>Request ID :</value>
+  </data>
+  <data name="&gt;&gt;RequestIDLbl.Name" xml:space="preserve">
+    <value>RequestIDLbl</value>
+  </data>
+  <data name="&gt;&gt;RequestIDLbl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;RequestIDLbl.Parent" xml:space="preserve">
+    <value>groupBox25</value>
+  </data>
+  <data name="&gt;&gt;RequestIDLbl.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <metadata name="bindingSource13.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 70</value>
+  </metadata>
+  <data name="dataGridView6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>30, 26</value>
+  </data>
+  <data name="dataGridView6.RowHeadersWidth" type="System.Int32, mscorlib">
+    <value>82</value>
+  </data>
+  <data name="dataGridView6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1059, 359</value>
+  </data>
+  <data name="dataGridView6.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;dataGridView6.Name" xml:space="preserve">
+    <value>dataGridView6</value>
+  </data>
+  <data name="&gt;&gt;dataGridView6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridView6.Parent" xml:space="preserve">
+    <value>tabPage21</value>
+  </data>
+  <data name="&gt;&gt;dataGridView6.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn6.HeaderText" xml:space="preserve">
+    <value>appointmentID</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn6.MinimumWidth" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn6.Width" type="System.Int32, mscorlib">
+    <value>200</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn7.HeaderText" xml:space="preserve">
+    <value>appStatus</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn7.MinimumWidth" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn7.Width" type="System.Int32, mscorlib">
+    <value>200</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn8.HeaderText" xml:space="preserve">
+    <value>appDate</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn8.MinimumWidth" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn8.Width" type="System.Int32, mscorlib">
+    <value>200</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn19.HeaderText" xml:space="preserve">
+    <value>appTime</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn19.MinimumWidth" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn19.Width" type="System.Int32, mscorlib">
+    <value>200</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn20.HeaderText" xml:space="preserve">
+    <value>vehicleID</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn20.MinimumWidth" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn20.Width" type="System.Int32, mscorlib">
+    <value>200</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn21.HeaderText" xml:space="preserve">
+    <value>customerID</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn21.MinimumWidth" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn21.Width" type="System.Int32, mscorlib">
+    <value>200</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn22.HeaderText" xml:space="preserve">
+    <value>mechanicID</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn22.MinimumWidth" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn22.Width" type="System.Int32, mscorlib">
+    <value>200</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn23.HeaderText" xml:space="preserve">
+    <value>serviceID</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn23.MinimumWidth" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn23.Width" type="System.Int32, mscorlib">
+    <value>200</value>
+  </data>
+  <metadata name="bindingSource13.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 70</value>
+  </metadata>
+  <metadata name="carShopDataSet.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1026, 17</value>
+  </metadata>
+  <metadata name="carShopDataSet.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1026, 17</value>
+  </metadata>
+  <data name="SearchAppointmentButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>717, 555</value>
+  </data>
+  <data name="SearchAppointmentButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>294, 55</value>
+  </data>
+  <data name="SearchAppointmentButton.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="SearchAppointmentButton.Text" xml:space="preserve">
+    <value>Search Appointment</value>
+  </data>
+  <data name="&gt;&gt;SearchAppointmentButton.Name" xml:space="preserve">
+    <value>SearchAppointmentButton</value>
+  </data>
+  <data name="&gt;&gt;SearchAppointmentButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;SearchAppointmentButton.Parent" xml:space="preserve">
+    <value>tabPage21</value>
+  </data>
+  <data name="&gt;&gt;SearchAppointmentButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="GenreateBillButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>717, 470</value>
+  </data>
+  <data name="GenreateBillButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>294, 49</value>
+  </data>
+  <data name="GenreateBillButton.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="GenreateBillButton.Text" xml:space="preserve">
+    <value>Generate Bill</value>
+  </data>
+  <data name="&gt;&gt;GenreateBillButton.Name" xml:space="preserve">
+    <value>GenreateBillButton</value>
+  </data>
+  <data name="&gt;&gt;GenreateBillButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;GenreateBillButton.Parent" xml:space="preserve">
+    <value>tabPage21</value>
+  </data>
+  <data name="&gt;&gt;GenreateBillButton.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;MecIDTxtBox1.Name" xml:space="preserve">
+    <value>MecIDTxtBox1</value>
+  </data>
+  <data name="&gt;&gt;MecIDTxtBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MecIDTxtBox1.Parent" xml:space="preserve">
+    <value>groupBox26</value>
+  </data>
+  <data name="&gt;&gt;MecIDTxtBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;MecIDLbl.Name" xml:space="preserve">
+    <value>MecIDLbl</value>
+  </data>
+  <data name="&gt;&gt;MecIDLbl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MecIDLbl.Parent" xml:space="preserve">
+    <value>groupBox26</value>
+  </data>
+  <data name="&gt;&gt;MecIDLbl.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;AppStatusComboBox.Name" xml:space="preserve">
+    <value>AppStatusComboBox</value>
+  </data>
+  <data name="&gt;&gt;AppStatusComboBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;AppStatusComboBox.Parent" xml:space="preserve">
+    <value>groupBox26</value>
+  </data>
+  <data name="&gt;&gt;AppStatusComboBox.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;AppointmentIbl.Name" xml:space="preserve">
+    <value>AppointmentIbl</value>
+  </data>
+  <data name="&gt;&gt;AppointmentIbl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;AppointmentIbl.Parent" xml:space="preserve">
+    <value>groupBox26</value>
+  </data>
+  <data name="&gt;&gt;AppointmentIbl.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;AppIDTxtBox1.Name" xml:space="preserve">
+    <value>AppIDTxtBox1</value>
+  </data>
+  <data name="&gt;&gt;AppIDTxtBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;AppIDTxtBox1.Parent" xml:space="preserve">
+    <value>groupBox26</value>
+  </data>
+  <data name="&gt;&gt;AppIDTxtBox1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;AppStatusLbl.Name" xml:space="preserve">
+    <value>AppStatusLbl</value>
+  </data>
+  <data name="&gt;&gt;AppStatusLbl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;AppStatusLbl.Parent" xml:space="preserve">
+    <value>groupBox26</value>
+  </data>
+  <data name="&gt;&gt;AppStatusLbl.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;button27.Name" xml:space="preserve">
+    <value>button27</value>
+  </data>
+  <data name="&gt;&gt;button27.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button27.Parent" xml:space="preserve">
+    <value>groupBox26</value>
+  </data>
+  <data name="&gt;&gt;button27.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="groupBox26.Location" type="System.Drawing.Point, System.Drawing">
+    <value>30, 419</value>
+  </data>
+  <data name="groupBox26.Size" type="System.Drawing.Size, System.Drawing">
+    <value>564, 270</value>
+  </data>
+  <data name="groupBox26.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="groupBox26.Text" xml:space="preserve">
+    <value>Update inoformation</value>
+  </data>
+  <data name="&gt;&gt;groupBox26.Name" xml:space="preserve">
+    <value>groupBox26</value>
+  </data>
+  <data name="&gt;&gt;groupBox26.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox26.Parent" xml:space="preserve">
+    <value>tabPage21</value>
+  </data>
+  <data name="&gt;&gt;groupBox26.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="MecIDTxtBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>278, 156</value>
+  </data>
+  <data name="MecIDTxtBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>153, 35</value>
+  </data>
+  <data name="MecIDTxtBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;MecIDTxtBox1.Name" xml:space="preserve">
+    <value>MecIDTxtBox1</value>
+  </data>
+  <data name="&gt;&gt;MecIDTxtBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MecIDTxtBox1.Parent" xml:space="preserve">
+    <value>groupBox26</value>
+  </data>
+  <data name="&gt;&gt;MecIDTxtBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="MecIDLbl.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="MecIDLbl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>26, 163</value>
+  </data>
+  <data name="MecIDLbl.Size" type="System.Drawing.Size, System.Drawing">
+    <value>166, 24</value>
+  </data>
+  <data name="MecIDLbl.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="MecIDLbl.Text" xml:space="preserve">
+    <value>Mechanic ID :</value>
+  </data>
+  <data name="&gt;&gt;MecIDLbl.Name" xml:space="preserve">
+    <value>MecIDLbl</value>
+  </data>
+  <data name="&gt;&gt;MecIDLbl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MecIDLbl.Parent" xml:space="preserve">
+    <value>groupBox26</value>
+  </data>
+  <data name="&gt;&gt;MecIDLbl.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="AppStatusComboBox.Items" xml:space="preserve">
+    <value>Assined Mechanic</value>
+  </data>
+  <data name="AppStatusComboBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>278, 109</value>
+  </data>
+  <data name="AppStatusComboBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>153, 32</value>
+  </data>
+  <data name="AppStatusComboBox.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;AppStatusComboBox.Name" xml:space="preserve">
+    <value>AppStatusComboBox</value>
+  </data>
+  <data name="&gt;&gt;AppStatusComboBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;AppStatusComboBox.Parent" xml:space="preserve">
+    <value>groupBox26</value>
+  </data>
+  <data name="&gt;&gt;AppStatusComboBox.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="AppointmentIbl.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="AppointmentIbl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="AppointmentIbl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>22, 54</value>
+  </data>
+  <data name="AppointmentIbl.Size" type="System.Drawing.Size, System.Drawing">
+    <value>202, 24</value>
+  </data>
+  <data name="AppointmentIbl.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="AppointmentIbl.Text" xml:space="preserve">
+    <value>Appointment ID :</value>
+  </data>
+  <data name="&gt;&gt;AppointmentIbl.Name" xml:space="preserve">
+    <value>AppointmentIbl</value>
+  </data>
+  <data name="&gt;&gt;AppointmentIbl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;AppointmentIbl.Parent" xml:space="preserve">
+    <value>groupBox26</value>
+  </data>
+  <data name="&gt;&gt;AppointmentIbl.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="AppIDTxtBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>278, 51</value>
+  </data>
+  <data name="AppIDTxtBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>153, 35</value>
+  </data>
+  <data name="AppIDTxtBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;AppIDTxtBox1.Name" xml:space="preserve">
+    <value>AppIDTxtBox1</value>
+  </data>
+  <data name="&gt;&gt;AppIDTxtBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;AppIDTxtBox1.Parent" xml:space="preserve">
+    <value>groupBox26</value>
+  </data>
+  <data name="&gt;&gt;AppIDTxtBox1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="AppStatusLbl.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="AppStatusLbl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="AppStatusLbl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>22, 112</value>
+  </data>
+  <data name="AppStatusLbl.Size" type="System.Drawing.Size, System.Drawing">
+    <value>250, 24</value>
+  </data>
+  <data name="AppStatusLbl.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="AppStatusLbl.Text" xml:space="preserve">
+    <value>Appointment Status :</value>
+  </data>
+  <data name="&gt;&gt;AppStatusLbl.Name" xml:space="preserve">
+    <value>AppStatusLbl</value>
+  </data>
+  <data name="&gt;&gt;AppStatusLbl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;AppStatusLbl.Parent" xml:space="preserve">
+    <value>groupBox26</value>
+  </data>
+  <data name="&gt;&gt;AppStatusLbl.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="button27.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="button27.Location" type="System.Drawing.Point, System.Drawing">
+    <value>387, 206</value>
+  </data>
+  <data name="button27.Size" type="System.Drawing.Size, System.Drawing">
+    <value>153, 44</value>
+  </data>
+  <data name="button27.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="button27.Text" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="&gt;&gt;button27.Name" xml:space="preserve">
+    <value>button27</value>
+  </data>
+  <data name="&gt;&gt;button27.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button27.Parent" xml:space="preserve">
+    <value>groupBox26</value>
+  </data>
+  <data name="&gt;&gt;button27.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <metadata name="bindingSource15.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>363, 123</value>
+  </metadata>
+  <data name="dataGridView7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>21, 27</value>
+  </data>
+  <data name="dataGridView7.RowHeadersWidth" type="System.Int32, mscorlib">
+    <value>82</value>
+  </data>
+  <data name="dataGridView7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1071, 367</value>
+  </data>
+  <data name="dataGridView7.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;dataGridView7.Name" xml:space="preserve">
+    <value>dataGridView7</value>
+  </data>
+  <data name="&gt;&gt;dataGridView7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridView7.Parent" xml:space="preserve">
+    <value>tabPage22</value>
+  </data>
+  <data name="&gt;&gt;dataGridView7.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn24.HeaderText" xml:space="preserve">
+    <value>paymentID</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn24.MinimumWidth" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn24.Width" type="System.Int32, mscorlib">
+    <value>200</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn25.HeaderText" xml:space="preserve">
+    <value>paymentStatus</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn25.MinimumWidth" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn25.Width" type="System.Int32, mscorlib">
+    <value>200</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn26.HeaderText" xml:space="preserve">
+    <value>date</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn26.MinimumWidth" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn26.Width" type="System.Int32, mscorlib">
+    <value>200</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn27.HeaderText" xml:space="preserve">
+    <value>time</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn27.MinimumWidth" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn27.Width" type="System.Int32, mscorlib">
+    <value>200</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn28.HeaderText" xml:space="preserve">
+    <value>Amount</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn28.MinimumWidth" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn28.Width" type="System.Int32, mscorlib">
+    <value>200</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn29.HeaderText" xml:space="preserve">
+    <value>customerID</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn29.MinimumWidth" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="dataGridViewTextBoxColumn29.Width" type="System.Int32, mscorlib">
+    <value>200</value>
+  </data>
+  <data name="paymentDetailDataGridViewTextBoxColumn.HeaderText" xml:space="preserve">
+    <value>paymentDetail</value>
+  </data>
+  <data name="paymentDetailDataGridViewTextBoxColumn.MinimumWidth" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="paymentDetailDataGridViewTextBoxColumn.Width" type="System.Int32, mscorlib">
+    <value>200</value>
+  </data>
+  <metadata name="bindingSource15.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>363, 123</value>
+  </metadata>
+  <metadata name="paymentDataSet1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>667, 70</value>
+  </metadata>
+  <metadata name="paymentDataSet1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>667, 70</value>
+  </metadata>
+  <data name="SearchPaymentButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>773, 520</value>
+  </data>
+  <data name="SearchPaymentButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>223, 50</value>
+  </data>
+  <data name="SearchPaymentButton.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="SearchPaymentButton.Text" xml:space="preserve">
+    <value>Search Payment</value>
+  </data>
+  <data name="&gt;&gt;SearchPaymentButton.Name" xml:space="preserve">
+    <value>SearchPaymentButton</value>
+  </data>
+  <data name="&gt;&gt;SearchPaymentButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;SearchPaymentButton.Parent" xml:space="preserve">
+    <value>tabPage22</value>
+  </data>
+  <data name="&gt;&gt;SearchPaymentButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;PaymentStatusComboBox.Name" xml:space="preserve">
+    <value>PaymentStatusComboBox</value>
+  </data>
+  <data name="&gt;&gt;PaymentStatusComboBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;PaymentStatusComboBox.Parent" xml:space="preserve">
+    <value>groupBox27</value>
+  </data>
+  <data name="&gt;&gt;PaymentStatusComboBox.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;PaymentIDTxtBox.Name" xml:space="preserve">
+    <value>PaymentIDTxtBox</value>
+  </data>
+  <data name="&gt;&gt;PaymentIDTxtBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;PaymentIDTxtBox.Parent" xml:space="preserve">
+    <value>groupBox27</value>
+  </data>
+  <data name="&gt;&gt;PaymentIDTxtBox.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;UpdateButton1.Name" xml:space="preserve">
+    <value>UpdateButton1</value>
+  </data>
+  <data name="&gt;&gt;UpdateButton1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;UpdateButton1.Parent" xml:space="preserve">
+    <value>groupBox27</value>
+  </data>
+  <data name="&gt;&gt;UpdateButton1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;PaymentStatusLbl.Name" xml:space="preserve">
+    <value>PaymentStatusLbl</value>
+  </data>
+  <data name="&gt;&gt;PaymentStatusLbl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;PaymentStatusLbl.Parent" xml:space="preserve">
+    <value>groupBox27</value>
+  </data>
+  <data name="&gt;&gt;PaymentStatusLbl.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;PaymentIDLbl.Name" xml:space="preserve">
+    <value>PaymentIDLbl</value>
+  </data>
+  <data name="&gt;&gt;PaymentIDLbl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;PaymentIDLbl.Parent" xml:space="preserve">
+    <value>groupBox27</value>
+  </data>
+  <data name="&gt;&gt;PaymentIDLbl.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="groupBox27.Location" type="System.Drawing.Point, System.Drawing">
+    <value>33, 429</value>
+  </data>
+  <data name="groupBox27.Size" type="System.Drawing.Size, System.Drawing">
+    <value>495, 259</value>
+  </data>
+  <data name="groupBox27.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="groupBox27.Text" xml:space="preserve">
+    <value>Update Information</value>
+  </data>
+  <data name="&gt;&gt;groupBox27.Name" xml:space="preserve">
+    <value>groupBox27</value>
+  </data>
+  <data name="&gt;&gt;groupBox27.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox27.Parent" xml:space="preserve">
+    <value>tabPage22</value>
+  </data>
+  <data name="&gt;&gt;groupBox27.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="PaymentStatusComboBox.Items" xml:space="preserve">
+    <value>Approved</value>
+  </data>
+  <data name="PaymentStatusComboBox.Items1" xml:space="preserve">
+    <value>Reject</value>
+  </data>
+  <data name="PaymentStatusComboBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>268, 109</value>
+  </data>
+  <data name="PaymentStatusComboBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>153, 32</value>
+  </data>
+  <data name="PaymentStatusComboBox.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;PaymentStatusComboBox.Name" xml:space="preserve">
+    <value>PaymentStatusComboBox</value>
+  </data>
+  <data name="&gt;&gt;PaymentStatusComboBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;PaymentStatusComboBox.Parent" xml:space="preserve">
+    <value>groupBox27</value>
+  </data>
+  <data name="&gt;&gt;PaymentStatusComboBox.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="PaymentIDTxtBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>268, 43</value>
+  </data>
+  <data name="PaymentIDTxtBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>153, 35</value>
+  </data>
+  <data name="PaymentIDTxtBox.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;PaymentIDTxtBox.Name" xml:space="preserve">
+    <value>PaymentIDTxtBox</value>
+  </data>
+  <data name="&gt;&gt;PaymentIDTxtBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;PaymentIDTxtBox.Parent" xml:space="preserve">
+    <value>groupBox27</value>
+  </data>
+  <data name="&gt;&gt;PaymentIDTxtBox.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="UpdateButton1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="UpdateButton1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>268, 173</value>
+  </data>
+  <data name="UpdateButton1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>153, 44</value>
+  </data>
+  <data name="UpdateButton1.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="UpdateButton1.Text" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="&gt;&gt;UpdateButton1.Name" xml:space="preserve">
+    <value>UpdateButton1</value>
+  </data>
+  <data name="&gt;&gt;UpdateButton1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;UpdateButton1.Parent" xml:space="preserve">
+    <value>groupBox27</value>
+  </data>
+  <data name="&gt;&gt;UpdateButton1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="PaymentStatusLbl.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="PaymentStatusLbl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="PaymentStatusLbl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>35, 117</value>
+  </data>
+  <data name="PaymentStatusLbl.Size" type="System.Drawing.Size, System.Drawing">
+    <value>202, 24</value>
+  </data>
+  <data name="PaymentStatusLbl.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="PaymentStatusLbl.Text" xml:space="preserve">
+    <value>Payment Status :</value>
+  </data>
+  <data name="&gt;&gt;PaymentStatusLbl.Name" xml:space="preserve">
+    <value>PaymentStatusLbl</value>
+  </data>
+  <data name="&gt;&gt;PaymentStatusLbl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;PaymentStatusLbl.Parent" xml:space="preserve">
+    <value>groupBox27</value>
+  </data>
+  <data name="&gt;&gt;PaymentStatusLbl.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="PaymentIDLbl.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="PaymentIDLbl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="PaymentIDLbl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>35, 54</value>
+  </data>
+  <data name="PaymentIDLbl.Size" type="System.Drawing.Size, System.Drawing">
+    <value>154, 24</value>
+  </data>
+  <data name="PaymentIDLbl.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="PaymentIDLbl.Text" xml:space="preserve">
+    <value>Payment ID :</value>
+  </data>
+  <data name="&gt;&gt;PaymentIDLbl.Name" xml:space="preserve">
+    <value>PaymentIDLbl</value>
+  </data>
+  <data name="&gt;&gt;PaymentIDLbl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;PaymentIDLbl.Parent" xml:space="preserve">
+    <value>groupBox27</value>
+  </data>
+  <data name="&gt;&gt;PaymentIDLbl.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="recepIDTxtBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>305, 59</value>
+  </data>
+  <data name="recepIDTxtBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>192, 35</value>
+  </data>
+  <data name="recepIDTxtBox.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;recepIDTxtBox.Name" xml:space="preserve">
+    <value>recepIDTxtBox</value>
+  </data>
+  <data name="&gt;&gt;recepIDTxtBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;recepIDTxtBox.Parent" xml:space="preserve">
+    <value>groupBox28</value>
+  </data>
+  <data name="&gt;&gt;recepIDTxtBox.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="RecepIDLb.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="RecepIDLb.Location" type="System.Drawing.Point, System.Drawing">
+    <value>33, 59</value>
+  </data>
+  <data name="RecepIDLb.Size" type="System.Drawing.Size, System.Drawing">
+    <value>214, 24</value>
+  </data>
+  <data name="RecepIDLb.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="RecepIDLb.Text" xml:space="preserve">
+    <value>Receptionist ID :</value>
+  </data>
+  <data name="&gt;&gt;RecepIDLb.Name" xml:space="preserve">
+    <value>RecepIDLb</value>
+  </data>
+  <data name="&gt;&gt;RecepIDLb.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;RecepIDLb.Parent" xml:space="preserve">
+    <value>groupBox28</value>
+  </data>
+  <data name="&gt;&gt;RecepIDLb.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="UpdateButton2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="UpdateButton2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>305, 337</value>
+  </data>
+  <data name="UpdateButton2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>192, 43</value>
+  </data>
+  <data name="UpdateButton2.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="UpdateButton2.Text" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="&gt;&gt;UpdateButton2.Name" xml:space="preserve">
+    <value>UpdateButton2</value>
+  </data>
+  <data name="&gt;&gt;UpdateButton2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;UpdateButton2.Parent" xml:space="preserve">
+    <value>groupBox28</value>
+  </data>
+  <data name="&gt;&gt;UpdateButton2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="PasswordTxtBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>305, 267</value>
+  </data>
+  <data name="PasswordTxtBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>192, 35</value>
+  </data>
+  <data name="PasswordTxtBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;PasswordTxtBox1.Name" xml:space="preserve">
+    <value>PasswordTxtBox1</value>
+  </data>
+  <data name="&gt;&gt;PasswordTxtBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;PasswordTxtBox1.Parent" xml:space="preserve">
+    <value>groupBox28</value>
+  </data>
+  <data name="&gt;&gt;PasswordTxtBox1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="EmailTxtButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>305, 196</value>
+  </data>
+  <data name="EmailTxtButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>192, 35</value>
+  </data>
+  <data name="EmailTxtButton.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;EmailTxtButton.Name" xml:space="preserve">
+    <value>EmailTxtButton</value>
+  </data>
+  <data name="&gt;&gt;EmailTxtButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;EmailTxtButton.Parent" xml:space="preserve">
+    <value>groupBox28</value>
+  </data>
+  <data name="&gt;&gt;EmailTxtButton.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="RecepNameTxtBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>305, 130</value>
+  </data>
+  <data name="RecepNameTxtBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>192, 35</value>
+  </data>
+  <data name="RecepNameTxtBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;RecepNameTxtBox2.Name" xml:space="preserve">
+    <value>RecepNameTxtBox2</value>
+  </data>
+  <data name="&gt;&gt;RecepNameTxtBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;RecepNameTxtBox2.Parent" xml:space="preserve">
+    <value>groupBox28</value>
+  </data>
+  <data name="&gt;&gt;RecepNameTxtBox2.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="PasswordLbl1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="PasswordLbl1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="PasswordLbl1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>33, 278</value>
+  </data>
+  <data name="PasswordLbl1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>130, 24</value>
+  </data>
+  <data name="PasswordLbl1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="PasswordLbl1.Text" xml:space="preserve">
+    <value>Password :</value>
+  </data>
+  <data name="&gt;&gt;PasswordLbl1.Name" xml:space="preserve">
+    <value>PasswordLbl1</value>
+  </data>
+  <data name="&gt;&gt;PasswordLbl1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;PasswordLbl1.Parent" xml:space="preserve">
+    <value>groupBox28</value>
+  </data>
+  <data name="&gt;&gt;PasswordLbl1.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="EmailLbl.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="EmailLbl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>33, 207</value>
+  </data>
+  <data name="EmailLbl.Size" type="System.Drawing.Size, System.Drawing">
+    <value>94, 24</value>
+  </data>
+  <data name="EmailLbl.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="EmailLbl.Text" xml:space="preserve">
+    <value>Email :</value>
+  </data>
+  <data name="&gt;&gt;EmailLbl.Name" xml:space="preserve">
+    <value>EmailLbl</value>
+  </data>
+  <data name="&gt;&gt;EmailLbl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;EmailLbl.Parent" xml:space="preserve">
+    <value>groupBox28</value>
+  </data>
+  <data name="&gt;&gt;EmailLbl.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="RecepNameLbl.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="RecepNameLbl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="RecepNameLbl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>33, 141</value>
+  </data>
+  <data name="RecepNameLbl.Size" type="System.Drawing.Size, System.Drawing">
+    <value>238, 24</value>
+  </data>
+  <data name="RecepNameLbl.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="RecepNameLbl.Text" xml:space="preserve">
+    <value>Receptionist Name :</value>
+  </data>
+  <data name="&gt;&gt;RecepNameLbl.Name" xml:space="preserve">
+    <value>RecepNameLbl</value>
+  </data>
+  <data name="&gt;&gt;RecepNameLbl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;RecepNameLbl.Parent" xml:space="preserve">
+    <value>groupBox28</value>
+  </data>
+  <data name="&gt;&gt;RecepNameLbl.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <metadata name="bindingSource14.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>949, 70</value>
+  </metadata>
+  <metadata name="inventoryRequestTableAdapter1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>578, 17</value>
+  </metadata>
+  <metadata name="appointmentTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>288, 70</value>
+  </metadata>
+  <metadata name="paymentTableAdapter1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 123</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1142, 752</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn1.Name" xml:space="preserve">
+    <value>dataGridViewTextBoxColumn1</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn2.Name" xml:space="preserve">
+    <value>dataGridViewTextBoxColumn2</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn3.Name" xml:space="preserve">
+    <value>dataGridViewTextBoxColumn3</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn4.Name" xml:space="preserve">
+    <value>dataGridViewTextBoxColumn4</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn5.Name" xml:space="preserve">
+    <value>dataGridViewTextBoxColumn5</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bindingSource12.Name" xml:space="preserve">
+    <value>bindingSource12</value>
+  </data>
+  <data name="&gt;&gt;bindingSource12.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;inventoryDataSet1.Name" xml:space="preserve">
+    <value>inventoryDataSet1</value>
+  </data>
+  <data name="&gt;&gt;inventoryDataSet1.Type" xml:space="preserve">
+    <value>assignment_receptionist.InventoryDataSet, InventoryDataSet.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn6.Name" xml:space="preserve">
+    <value>dataGridViewTextBoxColumn6</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn7.Name" xml:space="preserve">
+    <value>dataGridViewTextBoxColumn7</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn8.Name" xml:space="preserve">
+    <value>dataGridViewTextBoxColumn8</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn19.Name" xml:space="preserve">
+    <value>dataGridViewTextBoxColumn19</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn19.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn20.Name" xml:space="preserve">
+    <value>dataGridViewTextBoxColumn20</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn20.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn21.Name" xml:space="preserve">
+    <value>dataGridViewTextBoxColumn21</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn21.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn22.Name" xml:space="preserve">
+    <value>dataGridViewTextBoxColumn22</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn22.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn23.Name" xml:space="preserve">
+    <value>dataGridViewTextBoxColumn23</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn23.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bindingSource13.Name" xml:space="preserve">
+    <value>bindingSource13</value>
+  </data>
+  <data name="&gt;&gt;bindingSource13.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;carShopDataSet.Name" xml:space="preserve">
+    <value>carShopDataSet</value>
+  </data>
+  <data name="&gt;&gt;carShopDataSet.Type" xml:space="preserve">
+    <value>assignment_receptionist.CarShopDataSet, CarShopDataSet.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn24.Name" xml:space="preserve">
+    <value>dataGridViewTextBoxColumn24</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn24.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn25.Name" xml:space="preserve">
+    <value>dataGridViewTextBoxColumn25</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn25.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn26.Name" xml:space="preserve">
+    <value>dataGridViewTextBoxColumn26</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn26.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn27.Name" xml:space="preserve">
+    <value>dataGridViewTextBoxColumn27</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn27.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn28.Name" xml:space="preserve">
+    <value>dataGridViewTextBoxColumn28</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn28.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn29.Name" xml:space="preserve">
+    <value>dataGridViewTextBoxColumn29</value>
+  </data>
+  <data name="&gt;&gt;dataGridViewTextBoxColumn29.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;paymentDetailDataGridViewTextBoxColumn.Name" xml:space="preserve">
+    <value>paymentDetailDataGridViewTextBoxColumn</value>
+  </data>
+  <data name="&gt;&gt;paymentDetailDataGridViewTextBoxColumn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bindingSource15.Name" xml:space="preserve">
+    <value>bindingSource15</value>
+  </data>
+  <data name="&gt;&gt;bindingSource15.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;paymentDataSet1.Name" xml:space="preserve">
+    <value>paymentDataSet1</value>
+  </data>
+  <data name="&gt;&gt;paymentDataSet1.Type" xml:space="preserve">
+    <value>assignment_receptionist.PaymentDataSet, PaymentDataSet.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;bindingSource14.Name" xml:space="preserve">
+    <value>bindingSource14</value>
+  </data>
+  <data name="&gt;&gt;bindingSource14.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;inventoryRequestTableAdapter1.Name" xml:space="preserve">
+    <value>inventoryRequestTableAdapter1</value>
+  </data>
+  <data name="&gt;&gt;inventoryRequestTableAdapter1.Type" xml:space="preserve">
+    <value>assignment_receptionist.InventoryDataSetTableAdapters.InventoryRequestTableAdapter, InventoryDataSet.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;appointmentTableAdapter.Name" xml:space="preserve">
+    <value>appointmentTableAdapter</value>
+  </data>
+  <data name="&gt;&gt;appointmentTableAdapter.Type" xml:space="preserve">
+    <value>assignment_receptionist.CarShopDataSetTableAdapters.AppointmentTableAdapter, CarShopDataSet.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;paymentTableAdapter1.Name" xml:space="preserve">
+    <value>paymentTableAdapter1</value>
+  </data>
+  <data name="&gt;&gt;paymentTableAdapter1.Type" xml:space="preserve">
+    <value>assignment_receptionist.PaymentDataSetTableAdapters.PaymentTableAdapter, PaymentDataSet.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form2</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>
